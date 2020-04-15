@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "BOJ 1922 : "네트워크 연결"
+title: "BOJ 1922 : 네트워크 연결"
 tags: 정보과학
 ---
 
